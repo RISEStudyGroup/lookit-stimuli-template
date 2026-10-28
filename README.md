@@ -12,7 +12,7 @@ The main `rise/` folder contains experimental stimuli organized by media format 
 
 ```text
 .
-├── img/                    # Imags used for all RISE tasks
+├── img/                    # Images used for all RISE tasks
 ├── mp3/                    # Audio stimuli in MP3 format
 ├── mp4/                    # Video stimuli in MP4 format
 ├── ogg/                    # Audio stimuli in OGG format
