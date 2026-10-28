@@ -163,5 +163,3 @@ Experimental videos are loaded using the following configuration:
     "videoTypes": ["webm", "mp4"]
 }
 ```
-
-The base directory points to the RISE stimulus repository.
