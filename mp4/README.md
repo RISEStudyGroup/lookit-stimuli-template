@@ -8,8 +8,6 @@ Even though in the folder, the files are vaguely organized, the videos are organ
 
 The current CHS implementation contains eight experimental tasks presented in randomized order. For each task, one video is randomly selected from the available stimulus conditions, which vary by task.
 
-The experimental videos are specified in the `available_videos` object of the CHS study code, with files loaded from the repository's `mp4/` or `webm/` directories.
-
 ## Video stimuli by task
 
 ### 1. Geo-Social Attention (`SocialPreference`)
